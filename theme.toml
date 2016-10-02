@@ -1,0 +1,12 @@
+name = "InstagramHugoDemo"
+license = "MIT"
+licenselink = "https://github.com/alrayyes/instagram-hugo-demo-theme/blob/master/LICENSE.md"
+description = "Theme that demonstrates Hugo & Instagram api working together"
+homepage = "https://github.com/alrayyes/instagram-hugo-demo-theme"
+tags = ["instagram", "demo"]
+features = ["instagram"]
+min_version = 0.15
+
+[author]
+  name = "Ryan Kes"
+  homepage = "https://ryankes.eu"
