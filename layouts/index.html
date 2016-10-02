@@ -33,13 +33,13 @@
         <a href="{{ .link }}" target="_new">
 
             <div class="cover-card col-sm-4" style="background: url({{ .images.standard_resolution.url }}) no-repeat center top;background-size:cover;">
-            <p>
-                {{ with .caption }}{{ .text }}<br>
-                -<br>{{ end }}
-                <span class="play-date" data-date="{{ .created_time }}"></span>
-            </p>
-        </div>
-    </a>
+                <p>
+                    {{ with .caption }}{{ .text }}<br>
+                    -<br>{{ end }}
+                    <span class="play-date" data-date="{{ .created_time }}"></span>
+                </p>
+            </div>
+        </a>
         {{ end }}
     </div>
 </div>
