@@ -1,4 +1,4 @@
-Last.fm Hugo Demo Theme
+Instagram Hugo Demo Theme
 =================
 
 This is a simple demo theme that shows how to use [Instagram](https://www.instagram.com/) with [hugo](https://gohugo.io). Running demo can be found [here][demo_page].
