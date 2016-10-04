@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/dc30c64139b94a8024dd86e33b9e642b/m/master "wercker status")](https://app.wercker.com/project/byKey/dc30c64139b94a8024dd86e33b9e642b)
+
 Instagram Hugo Demo Theme
 =================
 
